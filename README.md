@@ -1,27 +1,15 @@
-# [React Reduction - Free Admin Template Built with React and Bootstrap4](https://reduction-admin.github.io/react-reduction/)
+# Programa de automatizacion de la máquina de compresión y tensión del Lab de suelos
 
-![React Reduction](public/img/screenshots/reduction-admin.jpg?raw=true 'React Reduction')
+Este programa se ha basado en un dashboard gratuito, a aprtir de este se han realizado los canbios y se han puesto las dependencias necesarias para cumplir con el objetivo de visualización de gráficas de Carga vs deformación en tiempo real
 
-## Preview
-
-You can check out [live preview](https://reduction-admin.github.io/react-reduction/).
 
 ## Quick Start
 
-1.  Clone the repo `git clone https://github.com/reduction-admin/react-reduction.git`
-2.  Go to your project folder from your terminal
-3.  Run: `npm install` or `yarn install`
-4.  After install, run: `npm run start` or `yarn start`
-5.  It will open your browser(http://localhost:3000)
+1.  Clone the repo `git clone https://github.com/Daniel-Merchan/LabSuelosUcuenca.git`
+
 
 ## Note
 
-React Reduction is built on top of [Create React App](https://github.com/facebook/create-react-app), which means all features that create-react-app supports are available.
+Se utiliza Canvas JS para la gráfica.
 
-To enable basic Google Analytics page tracking, you can add "REACT_APP_GOOGLE_ANALYTICS" variable in .env(or create env.production) file. For example, `REACT_APP_GOOGLE_ANALYTICS=xxxxxx` like this.
 
-## More Bootstrap Themes
-
-If you want more premium or free React Bootstrap themes, you can get it [here](https://flatlogic.com/admin-dashboards?ref=w7yTz44arn)
-
-[![Flat Logic](public/img/screenshots/flatlogic.com_admin-dashboards_react.png)](https://flatlogic.com/admin-dashboards?ref=w7yTz44arn)
