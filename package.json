@@ -33,7 +33,7 @@
     "react-sizeme": "^2.5.2",
     "reactstrap": "^7.1.0",
     "victory": "^32.0.0",
-    "xlsx": "^0.15.4"
+    "xlsx": "^0.17.0"
   },
   "devDependencies": {
     "gh-pages": "^1.2.0",
